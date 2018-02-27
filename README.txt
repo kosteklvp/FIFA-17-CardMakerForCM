@@ -1,0 +1,1 @@
+Aplikacja ma za zadanie obliczanie poszczególnych pól w grze FIFA do trybu kariery. Aplikacja zosta³a napisana przy u¿yciu Swing. Projekt nie zosta³ zrealizowany do koñca.
